@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm harsh shinde</h1>
-<h3 align="center">Fullstack developer from India</h3>
+<h3 align="center">A developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh7800&label=Profile%20views&color=0e75b6&style=flat" alt="harsh7800" /> </p>
 
